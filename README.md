@@ -158,8 +158,6 @@ I'm always open to interesting projects, collaborations, or just a good tech con
 
 <div align="center">
 
-*"Build things that matter. Ship things that work."*
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ALiRazax1&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
