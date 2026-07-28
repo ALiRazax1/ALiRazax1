@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Ali Raza 👋
-### Full-Stack Developer · AI Integration Enthusiast · Based in Karachi 🇵🇰
+### Full-Stack Developer · AI Integration Enthusiast 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%2B+TypeScript+Specialist;AI-Powered+App+Builder;WordPress+%26+WooCommerce+Expert)
 
